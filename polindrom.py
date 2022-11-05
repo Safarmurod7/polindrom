@@ -3,3 +3,6 @@ if st == st[::-1]:
     print("Polindrom")
 else:
     print("Polindrom emas")
+
+def s(s):
+    return s
